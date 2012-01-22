@@ -1,6 +1,6 @@
 # JSONEncode
 
-Functions for encoding strings, dates, arrays and dictionaries for JSON. String encoding uses fast JavaScript regular expression search/replace.
+Functions for encoding strings, dates, arrays and dictionaries for JSON in Classic ASP. String encoding uses fast JavaScript regular expression search/replace.
 
 ## Usage
 

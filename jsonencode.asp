@@ -8,7 +8,7 @@
 * @version 1.00.01 2011-03-16
 * @package asp
 * @author Ross McKay <rmckay@webaware.com.au>
-* @link http://www.webaware.com.au/
+* @link https://github.com/webaware/ASP-JSONEncode
 * @copyright copyright © 2011 WebAware Pty Ltd
 *
 * This library is free software; you can redistribute it and/or
